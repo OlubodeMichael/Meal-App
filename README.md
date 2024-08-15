@@ -16,11 +16,11 @@ The Meal Planner App is a React Native application designed to help users discov
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/meal-planner-app.git
+   git clone https://github.com/Olubodemichael/mealApp.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd meal-planner-app
+   cd mealApp
    ```
 3. Install the dependencies:
    ```bash
