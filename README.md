@@ -4,6 +4,8 @@
 
 The Meal Planner App is a React Native application designed to help users discover and manage their favorite meals. It allows users to browse through various meal categories, view detailed information about specific meals, and save their favorite meals for easy access later.
 
+https://github.com/user-attachments/assets/3810f90d-7d0b-4c92-8b9b-086f2d14082f
+
 ## Features
 
 - **Browse Categories**: Explore different categories of meals such as breakfast, lunch, dinner, and snacks.
